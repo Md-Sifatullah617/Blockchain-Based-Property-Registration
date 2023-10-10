@@ -1,4 +1,5 @@
 # Blockchain-Based-Property-Registration
+This is a private repository. Request Admin to get access the full code.
 ## Land Registration using Blockchain and Flutter preview
 ### youtube link
 <a href="https://youtu.be/qRW6gRI21yA">
